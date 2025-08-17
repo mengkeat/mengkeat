@@ -9,7 +9,7 @@ Based in Singapore
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mengkeat&layout=compact&theme=default&hide_border=false&bg_color=0d1117" width="48%" /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mengkeat&layout=compact&theme=default&hide_border=false" width="48%" /> 
 </div>
 
 ---
